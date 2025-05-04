@@ -39,10 +39,7 @@ animations = [{
 script = ExtResource("1_o246y")
 
 [node name="Card" parent="CardManager" instance=ExtResource("2_0ogf6")]
-position = Vector2(313, 487)
-
-[node name="Card2" parent="CardManager" instance=ExtResource("2_0ogf6")]
-position = Vector2(610, 487)
+position = Vector2(584, 478)
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 position = Vector2(575, 172)

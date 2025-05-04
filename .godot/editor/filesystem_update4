@@ -1,3 +1,7 @@
 res://Main.tscn
 res://Card.tscn
-res://Sprite2D.gd
+res://Card.gdshader
+res://Fake3D.gdshader
+res://CardManager.gd
+res://CardBackground.gd
+res://Card.gd
